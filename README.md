@@ -19,7 +19,7 @@ We need to track Ninjas who will battle each other. A Ninja has a name, strength
 
 ## ex5
 
-Swifties want tickets to Taylor Swift's latest concern from TicketMaster. They line up and then TicketMaster will serve them tickets first in first out. There are 1,000,001 tickets.
+Swifties want tickets to Taylor Swift's latest concern from TicketMaster. They line up and then TicketMaster will serve them tickets first in first out. TicketMaster can decide how many tickets are available for a concert. The first N people in line (assuming TicketMaster has N tickets) will get a ticket, and the rest will not receive a ticket.
 
 ## In person critiques of code they've never really seen before
 
